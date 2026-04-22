@@ -1,0 +1,2002 @@
+[
+  {
+    "q": "Musiqa madaniyati  darslarining   maqsad va vazifalari nimalardan iborat?",
+    "options": [
+      "Musiqa darsining maqsadi: barkamol insonni tarbiyalash\tMusiqa darslarida fanni o’qitish, kuylash va musiqa tinglash emas, balki o’quvchilar ongini o’stirish va his tuyg’ularini shakllantirish nazarda tutiladi",
+      "Musiqa darsi o’quvchilarni fikrlash va o’ylashga o’rgatadi",
+      "Musiqiy qobiliyatini o’stiradi",
+      "Musiqaga qiziqish uyg’otish, milliy musiqa bilan tanishtirish, dunyo qarashni kengaytirish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sh. Yormatovning bolalar uchun yaratgan asarlarni belgilang?",
+    "options": [
+      "“G`ildiragim”, “Islom Bobo”, “Sog`lom avlod qo`shig`i”",
+      "“Buvijonim”, “Navro`zim”, “Aziz bo`ston O`zbekiston”",
+      "“Paxta oy”, “Yaxshi bola”, “Chamandagi gullarmiz”",
+      "“Turnalar”, “Marsh”, “Yugurish”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa  majburiy fan sifatida qachondan boshlab o’qitila boshladi?",
+    "options": [
+      "XX asrning 20-yillaridan boshlab",
+      "XX asrning 30-yillaridan boshlab",
+      "XX asrning 40-yillaridan boshlab",
+      "XIX asrning 80-yillaridan boshlab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tinglash uchun asar tahlilida nimalarga e`tibor berish kerak?",
+    "options": [
+      "Asarni mazmuni, harakteri, formasi va ifodaliligiga",
+      "Tempiga, dinamikasiga",
+      "Asarning tarbiyaviy ahamiyatiga",
+      "Asar mazmuni, ifodaliligi, ladiga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kuyni qayta ishlash musiqiy tilda nima deyiladi?",
+    "options": [
+      "Aranjirovka",
+      "Modulytsiya",
+      "Transpozitsiya",
+      "Ohang"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kuylash faoliyatining vazifalari?",
+    "options": [
+      "Barcha javoblar to’g’ri",
+      "Vokal malakalarini rivojlantirish",
+      "Musiqiy eshitish qobiliyatini rivojlantirish",
+      "Tabiiy ovozda kuylashga o’rgatish."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa ta`lim tarbiyasining uslublari qaysi javobda to`g`ri ko`rsatilgan?",
+    "options": [
+      "Ko`rgazmalilik, og`zaki, o`yin, badiiy – amaliy",
+      "Og`zaki, o`yin",
+      "Ko`rgazmalilik, og`zaki",
+      "Badiiy – amaliy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Musiqa” so’zining  lug’aviy ma’nosi?",
+    "options": [
+      "Kuy, ohang",
+      "Tovush",
+      "Ashula",
+      "O’rin, joy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ilk bolalar musiqasini rivojiga hissa qo`shgan bastakorlar?",
+    "options": [
+      ".Akbarov, M. Nasimov,S. Abramova",
+      "Y. Rajabiy, M. Burxonov, P. Chaykovskiy",
+      "Omonullayeva, Sh. Yormatov, M. Ikromova",
+      "M. Nasimov, M. Burxonov, Sh. Yormatov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O’zbek  xalq  ommaviy  aytimlari  qaysilar?",
+    "options": [
+      "Qo’shiq, lapar, yalla,terma",
+      "Kuy, qo’shiq, yalla",
+      "lapar,raqs, kuy.",
+      "Raqs, lapar, yalla"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tembr uquvi bu-?",
+    "options": [
+      "Musiqiy tovushlarni bir-biridan farqlash",
+      "Musiqiy tovushlarni balandligi",
+      "Musiqaiy tovushlarni his qilish",
+      "Ovoz sozlash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa darslarini rejalashtirishda qanday talablarga rioya qilish zarur?",
+    "options": [
+      "Oddiydan murakkabga,osondan qiyinga o’tish prinspi",
+      "Ilmiylik va izchillik prinspi",
+      "Onglilik va faollilok prinspi",
+      "Osondan qiyinga prinspi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "D.Omonullayevaning bolalar uchun yaratgan asarlarni belgilang?",
+    "options": [
+      "Buvijonim”, “Navro`zim”, “Aziz bo`ston O`zbekiston”",
+      "Paxta oy”, “Yaxshi bola”, “Chamandagi gullarmiz”",
+      "G`ildiragim”, “Islom Bobo”, “Sog`lom avlod qo`shig`i”",
+      "Turnalar”, “Marsh”, “Yugurish marshi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Sen  o’xshaysan  onamga maqtay  butun  olamga”  ushbu  she’riy   misralar  qaysi  qo’shiqdan  olingan?",
+    "options": [
+      "“Vatanjonim ,Vatanim”",
+      "“Yaxshi  bola”",
+      "“Maktabim”",
+      "“O`zbekistonim"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Qo’zichoq”  qo’shig’ining  bastakori  kim?",
+    "options": [
+      "R.  Abdullayev",
+      "Sh.Yormatov",
+      "I. Akbarov",
+      "N. Norxo`jayev."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MTTda ko`ngil ochish soatlari oyda necha marotaba o`tkaziladi?",
+    "options": [
+      "3 marotaba",
+      "4 marotaba",
+      "2 marotaba",
+      "5 marotaba"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Aziz ustozlar” qo’shig’i bastakori?",
+    "options": [
+      "S.  Boboyev",
+      "D.Zokirov",
+      "D.Omonullayeva",
+      "Sh. Yormatov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Registr necha turga bo`linadi?",
+    "options": [
+      "3 turgа",
+      "6 turgа",
+      "2 turgа",
+      "4 turgа"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xorazm maqomi nechanchi asrda mukkamal shakillangan?",
+    "options": [
+      "XIX-asrda",
+      "XII -asrda",
+      "VII- asrda",
+      "X- asrda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa mashg’ulotlarida bajariladigan harakatlar to’g’ri berilgan qatorni toping?",
+    "options": [
+      "Musiqali o’yinlar, raqs, qo’shiqqa mos musiqiy-ritmik harakatlar",
+      "Musiqali o’yinlar, qo’shiq kuylash, raqs",
+      "Qo’shiq kuylash, tinglash, raqs",
+      "Musiqiy-ritmik harakatlar, kuylash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Erkaklarning eng past ovozi …?",
+    "options": [
+      "Bas",
+      "Tenor",
+      "Alt",
+      "Soprano"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xor necha ovozga bo`linadi?",
+    "options": [
+      "4 ovozga",
+      "6 ovozga",
+      "5 ovozga",
+      "7 ovozga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqada eng yirik janr nima?",
+    "options": [
+      "Opera",
+      "Estrada",
+      "Akapella",
+      "Maqom"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa mashg`ulotining turlari?",
+    "options": [
+      "Barcha javoblar to`g`ri",
+      "Doimiy mashg`ulot, yakka mashg`ulot",
+      "Katta bo`lmagan gurih bilan mashg`ulot",
+      "Birlashgan guruhlar bilan mashg`ulot."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bilim bu…?",
+    "options": [
+      "Tabiat va jamiyatdagi voqea-hodisalarning bosh miyada aks etishidir",
+      "Tevarak atrofdagi voqea-hodisalarni bilib olinishi",
+      "O‘quv fanlarining o‘rganilgan qismidir",
+      "O`rganilgan barcha tushunchalar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Og`zaki bayon qilish metodlarining ifoda vositasi nima?",
+    "options": [
+      "O’qituvchining jonli so`zi",
+      "O’zbek tilining izohli lug’ati, darslik",
+      "Ko`rgazmali qurollar",
+      "Darslik, kitob"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Faoliyatga undovchi metodlar?",
+    "options": [
+      "Mashq qilish, topshiriq berish, o`yin, o`rgatish",
+      "O`yin, sport, dars, darsliklardan foydalanish",
+      "Mashq, o`yin, topshiriq berish",
+      "O`qish, mashq qilish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Estetika” so`zining ma`nosini aniqlang?",
+    "options": [
+      "Lotincha “aistnesis”-hissiy idrok demakdir",
+      "Yunoncha-his qilish degan ma`noni bildiradi",
+      "Yunoncha –go`zallik demakdir",
+      "Estetika-zamonaviy yashash ma`nosini bildiradi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa ta`lim tarbiyasining uslublar?",
+    "options": [
+      "Ko`rgazmalilik, og`zaki, o`yin, badiiy – amaliy",
+      "Og`zaki, o`yin",
+      "Ko`rgazmalilik, og`zaki",
+      "Badiiy – amaliy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Chamanda gul\" qo`shig`i muallifi?",
+    "options": [
+      "O`zbek xalq qo`shig`i",
+      "Sh.Yormatov",
+      "T.Jalilov",
+      "M.Burxonov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Kompazitorlik ijodining yirik mahsuli bu…?",
+    "options": [
+      "Qo’shiq",
+      "Kuy",
+      "Musiqa",
+      "Opera"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Quyidagi kompozitorlarning qaysi biri ko’proq bolalar uchun ijod qilgan ?",
+    "options": [
+      "G’.Qodirov",
+      "N.Zokirov",
+      "S.Jalil",
+      "M.Bafoev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bolalar cholg`u asboblari necha turga bo`linadi?",
+    "options": [
+      "2  turga kuychang va kuychang bo’lmagan",
+      "2 tа kamonli, damli",
+      "4 tа zarbli, chertma, damli, torli.",
+      "5 tа chertma, zarbli, torli, kamonli, damli"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Opera nechanchi asrda paydo bo’lgan?",
+    "options": [
+      "XVI-asr oxirida Italiyada",
+      "XV-asr Rimda",
+      "XVIII-asr Fransiyada",
+      "XVII-Vena"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xor janrlari qaysilar?",
+    "options": [
+      "Oratoriya,syuita",
+      "Maqom, syuita",
+      "Simfoniya, Estrada",
+      "Lapar,Estrada"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa mashg`ulotini rejalashtirishda musiqa rahbari qanday talablarga rioya qilishi zarur?",
+    "options": [
+      "Bolalar yoshini hisobga olishi, qobiliyatini nazarda tutishi",
+      "Bolalar sog`lig`i",
+      "Bolalar Yoshi",
+      "Bolalar kayfiyat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Chamandagi gullarmiz”asari kim tomonidan yozilgan?",
+    "options": [
+      "N.Norxo’jaev",
+      "Sh.Yormatov",
+      "M.Burxanov",
+      "F.Nazarov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Birinchi o’zbek operasi nechanchi yilda yaratilgan va nomi?",
+    "options": [
+      "1939 yil, «Bo’ron",
+      "1941 yil, «Tohir va Zuhra",
+      "1940 yil,«Zaynab va Omon",
+      "1938yil «Bo’ron"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ansambl, xor, orkestr uchun yozilgan nota yo’li nima?",
+    "options": [
+      "Partitura",
+      "Klavir",
+      "Nota yozuvi",
+      "Orkestrovka"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ko`rgazmalilik qaysi usullarni o`z ichiga oladi?",
+    "options": [
+      "Ko`rsatish, ijro etish texnik  vositalari",
+      "Ko`rsatish, tushuntirish, suhbat",
+      "Savol-javob, tushuntirish",
+      "Ko`rgazmali qurol, texnik vositalar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ayollar ovozlarini ko’rsating\t?",
+    "options": [
+      "Soprano, messo-soprano, alt",
+      "Soprano, bas",
+      "Bas, tenor",
+      "Bas, diskant"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O`qituvchining hissiy – irodaviy sifatlarini belgilang?",
+    "options": [
+      "Sabrlilik, mardlik, vazminlik, irodalilik, qat’iyatlilik",
+      "Ishbilarmonlik, tashabbuskorlik, to`g`ri so`zlik, xushmuomalalilik",
+      "Kuzatuvchan-lik, tashkilotchilik, halollik, tashabbuskor-lik",
+      "Bolalarni sevish, fuqarolik burchini anglash, mas’uliyatlilik, jismonan sog`lom bo’lish."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Asarni tinglab, uning ifoda vositalarini farqlay bilish musiqaviylikning qaysi xususiyatiga mansub?",
+    "options": [
+      "Musiqani taqqoslash",
+      "Musiqaviylikni his etish",
+      "Bolalarning musiqaga ijodiy yondashishi",
+      "Musiqaviy faoliyat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xorda soprano partiyasi qaysi kalitda yoziladi?",
+    "options": [
+      "Skripka kalitida",
+      "Alt kalitida",
+      "Bas kalitida",
+      "Fa kalitida"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Eng kichik aralash xor necha kishidan tashkil topadi?",
+    "options": [
+      "12 Kishidan",
+      "10 Kishidan",
+      "5 Kishidan",
+      "15 Kishidan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mutatsiya nima?",
+    "options": [
+      "Bolalar ovozining o’zgarishi",
+      "O’g’il bolalar ovozining o’zgarishi",
+      "Ovozning vaqtinchalik hastaligi",
+      "Mustaqil ovoz tembriga o’tish jarayoni engillashtirish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tovush qatorining sharqda qadimgi nomi?",
+    "options": [
+      "Jo’mlar",
+      "Bo’dlar",
+      "Misl",
+      "Jipslar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xorda altino qaysi partiyaga mansub?",
+    "options": [
+      "Altga",
+      "Sopranoga",
+      "Basga",
+      "Tenorga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ko‘rgazmali qurollar turlarini ko‘rsating?",
+    "options": [
+      "Tabiiy, ta’sviriy",
+      "Tabiiy, jadvalli, tasviriy, ilmiy",
+      "Tasviriy, chizmali",
+      "Ilmiy, jadvalli"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ashulachilik nafasi nechta turga bo’linadi?",
+    "options": [
+      "3- turga.Ko’krak, qorin nafasi,diafragma",
+      "4 turga.Ko’krak, qorin,elka ,diafragma",
+      "2-turga.Diafragma,ko’krak",
+      "2 turga. Diafragma  ,qorin nafasi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sinfdan va maktabdan tashqari ishlar nima maqsadda tashkil qilinadi?",
+    "options": [
+      "O’quvchilarning  bo’sh vaqtlarini mazmunli o’tkazish, mustaqil bilim olishlari, ijodiy -qobiliyatlarini rivojlantirish uchun",
+      "O’quvchilarni to’garaklarga jalb qilish uchun",
+      "Bolalar va ota-onalarning yakka tartibdagi ehtiyojini qondirish uchun.",
+      "O’quvchilarning darsdan keyingi vaqtlarini to’g’ri  taqsimlash  uchun."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "«Boychechak» qo’shig’ining muallifi?",
+    "options": [
+      "O‘zbek xalq kuyi Sh.Yormatov qayta ishlagan",
+      "Sh.Ramazonov",
+      "M.Burxanov",
+      "D.Omonullayeva"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqiy uquv bu-?",
+    "options": [
+      "Musiqiy tovushlar baland-pastligini his qilish",
+      "Musiqa tinglash",
+      "Musiqiy ritmik harakat bajarish",
+      "Kuylash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Erkaklar ovozlarini ko’rsating?",
+    "options": [
+      "Bas, tenor",
+      "Soprano, bas",
+      "Soprano, messo-soprano, contralto",
+      "Alt, bariton"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xordagi ovozlarning asosiy nechta turi farqlanadi ?",
+    "options": [
+      "6",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "“Oddiy muallim” she’ri muallifi kim?",
+    "options": [
+      "Muhammad Yusuf",
+      "Abdulla Oripov",
+      "Erkin Vohidov",
+      "Hamid Olimjon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Asarni boshqa tonallikga o`tkazish nima deyiladi?",
+    "options": [
+      "Transpоzitsiya",
+      "Vоlta",
+      "Mоdulyatsiya",
+      "Aranjirovka"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To’garaklar nima maqsadda tashkil etliadi?",
+    "options": [
+      "O’quvchilar bo’sh vaqtini mazmunli tashkil qilish, yakka tartibda qiziqish va ehtiyojini qondirish, ijodiy qobiliyatlarini o’stirish",
+      "Yakka ehtiyojini qondirish, tijorat, darsda olgan bilimlarini mustahkamlash",
+      "O’qituvchiga yordam, yakka ehtiyojini qondirish, ijodiy qobilyatlarini o’stirish,  jismonan sog’lomlashtirish",
+      "Bo’sh vaqtini mazmunli o’tkazish, jismonan sog’lom qilib tarbiyalash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bоlalar оvоzi musiqiy tilda qanday nоmlanadi?",
+    "options": [
+      "Diskant",
+      "Tenоr",
+      "Bas",
+      "Baritоn"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ansambl so’zi qaysi tildan olingan va uning ma’nosi nima?",
+    "options": [
+      "Fransuzchadan olingan bo’lib,uyg’unlashuv degan ma’noni bildiradi",
+      "Fransuzchadan olingan bo’lib moslashuv degan ma’noni bildiradi",
+      "Lotincha so’zdan olingan bo’lib  uyg’unlashuv degan ma’noni bildiradi",
+      "Lotincha jamoa degan ma’noni bildiradi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqada eng yirik janr qaysi?",
+    "options": [
+      "Opera",
+      "Estrada",
+      "Maqom",
+      "Ariya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Kuz” qo`shig`ining  bastakori?",
+    "options": [
+      "S. Abramova",
+      "M. Ikromova",
+      "F. Nazarov",
+      "Sh. Yormatov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Umumiy musiqaviylik belgilari nima?",
+    "options": [
+      "Musiqaga emotsional javob qaytarish",
+      "Ichki eshitish qobiliyati",
+      "Tovush balandligini his etish",
+      "Musiqani ohangidan tanish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Asarda boshqa tonallikga o`tish nima deyiladi?",
+    "options": [
+      "Mоdulyatsiya.",
+      "Vоlta",
+      "Transpоzitsiya",
+      "Aranjirovka"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Birinchi bolalar operasining muallifi kim?",
+    "options": [
+      "C. S. Boboev",
+      "B. X. Izomov",
+      "D. M. Ashrafiy",
+      "K.Kenjayev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "”Dilorom” operasining muallifi kim?",
+    "options": [
+      "M.Ashrafiy",
+      "M.Bafoev",
+      "D.Omonullaeva",
+      "T.Jalilov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Maysaraning ishi”operasi muallifi kim?",
+    "options": [
+      "S.Yudakov",
+      "M.Ashrafiy",
+      "T.Jalilov",
+      "M.Leviev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O’zbek hajviy operasi qaysi?",
+    "options": [
+      "Maysaraning  ishi",
+      "Bo'ron",
+      "Gulsara",
+      "Farxod va Shirin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bolalar uchun yozilgan opera qaysi?",
+    "options": [
+      "Yoriltosh",
+      "Maysaraning ishi",
+      "Dilorom",
+      "Gulsara"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mehnat qo’shig’i qaysi?",
+    "options": [
+      "Xo’p xayda",
+      "Alla",
+      "Yor-yor",
+      "Lolajon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Birinchi makatabgacha ta`lim muassasasi qaysi davlatda ochilgan\t?",
+    "options": [
+      "Germaniyada",
+      "Fransiyada",
+      "Angliyada",
+      "Shvesariyada"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Bilakuzuk”, “Qilpillama”qo`shiqlari qanday janrda yozilgan?",
+    "options": [
+      "Lapar",
+      "Yalla",
+      "Maqom",
+      "Yor-yor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To’y marosim qo’shig’ini toping?",
+    "options": [
+      "Yor-yor",
+      "Xo’p xayda",
+      "Alla",
+      "Boychechak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MTTda tashkil etiladigan bayram ertaliklari necha qismdan iborat bo`ladi?",
+    "options": [
+      "3 qismdan",
+      "4 qismdan",
+      "2 qismdan",
+      "5 qismdan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bolalar haqida xalq qo’shiqlari qaysilar?",
+    "options": [
+      "Laylak keldi, Chittigul,Boychechak,Sumalak",
+      "Xo’p xayda, Yallama-yorim. Yor-yor",
+      "Yomg`ir- yog`aloq",
+      "Vatanjonim,Qo’zichoq"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xоr san`ati necha yo`nalishda rivоjlanib kelgan?",
+    "options": [
+      "2 yo`nalishda",
+      "1 yo`nalishda",
+      "5 yo`nalishda",
+      "3 yo`nalishda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "So`zlab berish metodi bu-?",
+    "options": [
+      "Tushuntirish, izohlash, suhbat",
+      "Badiiy nutq tushuntirish, ko`rsatish vazifa berish",
+      "Badiiy nutq ko`rsatish, izohlash,   tasavvur qilish",
+      "Badiiy nutq tushuntirish, izohlash, tasavvur qilish vazifa berish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Gul lola” qo’shig’i muallifi kim?",
+    "options": [
+      "Sh.Yormatov",
+      "T.Jalilov",
+      "M.Ashrafiy",
+      "F.Alimov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Men nechun sevaman O’zbekistonni” qo`shiq so’zini muallifi kim?",
+    "options": [
+      "A.Oripov",
+      "P.Mo’min",
+      "M.Yusuf",
+      "E.Vohidov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Maftun bo’ldim”  badiiy film musiqasining muallifi kim?",
+    "options": [
+      "M.Burxanov",
+      "T.Jalilov",
+      "A.Oripov",
+      "M.Leviev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "”Bahor qo’shig’i” asarining muallifi kim?",
+    "options": [
+      "M.Burxanov",
+      "M.Ashrafiy",
+      "T.Jalilov",
+      "N.Norxo’jaev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi olim “Insonning bilish faoliyati bilmaslikdan bilishga qarab   boradi” deb aytgan?",
+    "options": [
+      "Abu Rayhon Beruniy",
+      "Yan Amos Kaminskiy",
+      "Abu Ali Ibin Sino",
+      "Burxoniddin Zarujiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MTTda tinglashga o`rgatishning  turlari?",
+    "options": [
+      "Barcha javoblar to`g`ri",
+      "Musiqa mashg`ulotida tinglash.",
+      "Konsertlarda tinglash.",
+      "Musiqa yozuvlarda tinglash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Assalom hayot” kantatasi muallifi?",
+    "options": [
+      "Shermat Yormatov",
+      "To`xtasin Jalilov",
+      "Dilorom Omonullayeva",
+      "Avaz Mansurov."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa o`qitish metodikasi fanining pedagogik fan sifatida maqsadi nima?",
+    "options": [
+      "Talabalarni pedagogik faoliyatga tayyorlash, ularni metodik bilim va mahorat bilan qurollantirish",
+      "Musiqa o`qitishni qonun - qoidalarini ta`riflab berish",
+      "O'quvchilarni musiqa san`atiga qiziqtirish",
+      "Mantiqiy badiiy fikrlash qobiliyatini rivojlantirish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqaning inson hayotida tutgan o'rni haqida qaysi mutafakkirlar o'z fikrlarini bildirganlar?",
+    "options": [
+      "Abu Nasr Al-Farobiy, Shayx Sa`diy",
+      "Abdulla Avloniy Bobur",
+      "Cho'lpon, Abdulla Qodiriy",
+      "Alisher Navoiy, Jomiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqiy uquvi bo'sh bo'lgan bolalar bilan ishlash metodi musiqa madaniyati darsida qanday qo'llaniladi?",
+    "options": [
+      "Dars jarayonida differensial guruhlarga bo'linadi",
+      "Dars jarayonida ularga kamroq ahamiyat berish kerak",
+      "Musiqiy uquvi bo'sh bo'lgan bolalarga, qiziqarli topshiriqlar beriladi",
+      "Bunday o'quvchilarni sinfdan tashqari, ommaviy shakldagi tadbirlarga jalb etiladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bolalar cholg`u asboblarida jo'r bo'lish faoliyatini nechanchi sinfdan qo'llaniladi va uning ahamiyati?",
+    "options": [
+      "Birinchi sinfning ikkinchi choragidan tanishtirilib qo'llaniladi, o'quvchilarning musiqiy uquvini, xotirasini o'stiradi.",
+      "Boshlang`ich sinflarda qo'llaniladi va o'quvchilarni faollashtiradi",
+      "Musiqa darsida bolalar cholg`u asboblarini qo'llash shart emas",
+      "Uchinchi sinfdan qo'llaniladi, chunki bolalar ko'nikma va malakaga ega bo'ladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Birinchi sinfda yil mavzusi «Biz musiqani sevamiz» chorak mavzulari qanday tartibda joylashgan?",
+    "options": [
+      "Biz yoqtirgan kuy va qo'shiqlar, musiqali o'yinlar, xushnavo cholg`ularimiz",
+      "Musiqiy o'yinlar, musiqa nimani ifodalaydi, musiqa tabiat aksi, xushnavo cholg`ularimiz",
+      "Musiqani tuzilishi, biz yoqtirgan kuy va qo'shiqlar, musiqa nimani ifodalaydi, xushnavo cholg`ularimiz",
+      "Biz musiqani sevamiz."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ikkinchi sinfda musiqa o'qitishning mazmuni va metodikasi?",
+    "options": [
+      "Vokal - xor ishiga e`tibor kuchayadi, birinchi sinfda olingan tushunchalar konkret bilimlarga aylanadi",
+      "Musiqa darslari beshta faoliyat asosida olib boriladi, o'quvchilar ovozi yo'lga qo'yilgan bo'ladi",
+      "O'zbek xalq ashulalari va cholg`u asboblari bilan tanishtiriladi musiqa janrlari qo'shiq, raqs va marsh bilan kengroq tanishitiriladi",
+      "Dars mavzulari bir-biri bilan bog`lanib ketadi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ikkinchi sinfda yil mavzusi nima?",
+    "options": [
+      "Musiqa nimani ifodalaydi va nimani tasvirlaydi",
+      "Musiqa cholg`ulari va ijrosi",
+      "Yakkanavozlik jo'rsozlik va jo'rnavozlik",
+      "Musiqa mazmuni va shakli"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uchinchi sinfda musiqa o'qitishni mazmuni va metodikasi?",
+    "options": [
+      "O'quvchilarni diqqat e`tibori turg`un ovoz apparatlari shakllangan, musiqa haqida bilimga ega bo`ladi",
+      "1 va 2 sinflardan ancha farq qiladi, ko'nikmalar va malakalarga ega bo'ladilar",
+      "3-sinfda o'quvchilarni musiqa darsiga qiziqishi yanada ortgan, diqqat e`tibori turg`un bo`ladi",
+      "2- sinf o'quvchilaridan uncha farq qilmaydilar, xarakatchan o'yinqaroq bo'ladilar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Xalfachilik san`ati qanday mahalliy uslubga mansub?",
+    "options": [
+      "Xorazm",
+      "Andijon – Namangan",
+      "Qashqadaryo – Surxandaryo",
+      "Toshkent – Farg`ona"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa tili deganda nimani tushunasiz?",
+    "options": [
+      "Kuy, ritm, lad, surat, dinamik belgisi",
+      "Kuyni inson ruhiyatiga ta`siri",
+      "Musiqadan ozuqa olish",
+      "Musiqa inson ongiga musiqiy tovushlar orqali ta`siri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Uchinchi sinfda musiqa o'qitishni mazmuni va metodikasi?",
+    "options": [
+      "O'quvchilarni diqqat e`tibori turg`un ovoz apparatlari shakllangan, musiqa haqida bilimga ega bo`ladi",
+      "1 va 2 sinflardan ancha farq qiladi, ko'nikmalar va malakalarga ega bo'ladilar",
+      "3-sinfda o'quvchilarni musiqa darsiga qiziqishi yanada ortgan, diqqat e`tibori turg`un bo`ladi",
+      "2- sinf o'quvchilaridan uncha farq qilmaydilar, xarakatchan o'yinqaroq bo'ladilar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqali komediya deb nimaga aytiladi?",
+    "options": [
+      "Xajviy mavzudagi musiqiy asar",
+      "Simfonik orkestr ijrosidagi asar",
+      "Bolalar uchun yozilgan asar",
+      "Jiddiy mavzudagi musiqali asar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa madaniyati fanida yaratilgan yangi dastur qanday xususiyatlarga ega?",
+    "options": [
+      "Ta`limiy, tarbiyaviy, rivojlantiruvchi, mintaqaviy xususiyatlarni hisobga olgan yil, chorak mavzulari va davlat ta`lim standartlari asosida",
+      "Chorak mavzulari va davlat ta`lim standartlari asosida",
+      "Amaldagi dasturdan bir muncha yangi talablar kiritilgan",
+      "Davlat ta`lim standartlari asosida maqom va shashmaqom haqida ma`lumotlar kiritilgan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sinfdan tashqari musiqiy to'garakning muvaffaqiyati nimada?",
+    "options": [
+      "Maktab sahnasida",
+      "Qo'shiqni ifodali  kuylashda",
+      "Ijrochilik mahoratida",
+      "O'quvchilarning ahilligida"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yettinchi sinfda musiqa o'qitishning mazmuni nimalardan iborat?",
+    "options": [
+      "Musiqa o'qitish murakkablashadi, ovozlarni shakllanishi notekis bo'ladi",
+      "Qo’shiq kuylash faoliyatiga e’tibor qaratiladi",
+      "Ikki ovozli qo'shiqlar o'rgatiladi",
+      "Ritmik harakatlar faoliyatiga e’tibor qaratiladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Umumdidaktik tamoillarni qanday turlari mavjud?",
+    "options": [
+      "Sistemalilik, ilmiylik va davomiylik, onglilik va aktivlik, ko'rgazmalilik, bilim va malakalarni mustaxkamlash, o'quv materiallarni o'quvchilar bilimiga moslashishi",
+      "Ko'rgazmalilik, taqqoslash,tinglash va kuylash",
+      "Ko’rgazmali qurollar yordamida kuylash",
+      "Taqqoslash , ilmiylik, onglilik va aktivlik, ko'rgazmalilik, musiqiy o'quvchi bo'sh bo'lgan bolalar bilan ishlash prinsiplari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Vokal - xor malakalari musiqa darsida qanday ahamiyatga ega?",
+    "options": [
+      "O'quvchilarda kuylash malakalarini shakllantiradi",
+      "O’quvchilarda musiqa asarini toza tinglashga o’rgatadi",
+      "Musiqiy savodxonligini oshiradi",
+      "Vokal xor malakalar vositasida tinglash qobiliyatlari shakllanadi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To'rtinchi sinf yil mavzusini toping?",
+    "options": [
+      "Xalq musiqa ijodi",
+      "Musiqaning tuzilishi",
+      "Xalq ashulalari va ashula yo'lida kuylar",
+      "Musiqa nimani ifodalaydi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O'zbek xalq musiqasi necha turga bo'linadi?",
+    "options": [
+      "Ikki turga bo'linadi, xalq ommaviy janrlari va (professional) kasbiy musiqa",
+      "Lirik qo'shiqlar, katta ashula lapar, marosim qo'shiqlar",
+      "Lirik qo'shiqlar, marosim qo'shiqlar yalla va lapar, katta ashula epik",
+      "Xalq qo'shiqlar, xorazm musiqasi, katta ashula"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bolalar xorida ovozlar qanday bo'linadi?",
+    "options": [
+      "Diskant, alt",
+      "Soprano, diskant",
+      "Soprano, tenor",
+      "Soprano, alt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O‘zbek xalq cholg’u asboblari necha turga bo'linadi?",
+    "options": [
+      "3- turga.Damli,zarbli ,torli.",
+      "2-turga.Urib chalinadigan, chertib chalinadigan",
+      "4-turga",
+      "3-turga.Doira, karnay, gijjak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Yaxshi bola” qo'shig`ini qaysi kompozitor yozgan?",
+    "options": [
+      "N.Norxo`jaev",
+      "Sh.Yormatov",
+      "A.Mansurov",
+      "F.Nazarov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Beshinchi sinf o'quvchilarining ovoz diapazoni qanday?",
+    "options": [
+      "do(1)-mi(2)",
+      "si(m) - re(2)",
+      "do (1)- mi(2)",
+      "si(m) - do (2)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mumtoz musiqa qanday ma`noni anglatadi?",
+    "options": [
+      "Namunaviy ,chuqur mazmunga ega yetuk asar",
+      "Badiiy tomondan yetuk asar",
+      "Sho'x quvnoq musiqa",
+      "Ko'p ovozli asar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "7-sinfda ovozi o'zgargan o'quvchilar bilan qanday ish olib boriladi?",
+    "options": [
+      "Qo'shiqdagi ovozlar trasnportirovka qilinib moslashtiriladi, yakka tartibda differensial guruhlarga bo'linadi.",
+      "Ularning organizmida xorg`inlik holati paydo bo'ladi",
+      "O'quvchilarni ota-onalari bilan farzandlari haqida suhbatlar o'tkaziladi va maslahatlar beriladi",
+      "Musiqa darsida ularga ahamiyat beriladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A.Jomiy «Risolai dar ilmiy musiqa» nomli kitobida nima haqida yozilgan?",
+    "options": [
+      "Kompozitsiya, lad, ritm, nisbatlari haqida",
+      "Maqom musiqa haqida",
+      "Mumtoz musiqa haqida",
+      "Sharq va g`arb-musiqasi haqida"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Mavrigi”  janri qaysi mahalliy uslubga xos?",
+    "options": [
+      "Samarqand, Buxoro",
+      "Toshkent, Farg`ona",
+      "Andijon, Namangan",
+      "Surxandaryo, Qashqadaryo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yallachilik san`ati qaysi mahalliy uslubda keng tarqalgan?",
+    "options": [
+      "Toshkent-Farg`ona",
+      "Andijon-Namangan",
+      "Surxandaryo-Qashqadaryo",
+      "Xorazm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Opera janri deb nimaga aytiladi?",
+    "options": [
+      "Barcha musiqiy janrlarni o'z ichiga olgan eng katta sahnaviy asarlar",
+      "Libretto asosida yozilgan asarga aytiladi",
+      "Eng katta dramma asariga aytiladi",
+      "Simfonik orkestr jo'rligida ijro etilgan asar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yoriltosh birinchi bolalar operasining muallifi kim?",
+    "options": [
+      "S. Boboyev",
+      "T. Toshmatov",
+      "X. Izomov",
+      "M. Ashrafiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Otmagay tong” ariyasi qaysi musiqali dramaga mansub?",
+    "options": [
+      "“Toxir va Zuhra”",
+      "“Gulsara”",
+      "“Nurxon”",
+      "“Ravshan va Zulxumor”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Interaktiv metod” deganda nimani tushunasiz?",
+    "options": [
+      "Jamoa bo'lib fikrlash",
+      "Muomilalik",
+      "Faollik",
+      "Ishga ijodiy yondoshish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqaga emotsional javob beradi-bu...?",
+    "options": [
+      "Indikator",
+      "Ta'limga yondashuv",
+      "Soha",
+      "Kichik soha"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Interval tovushlarning aylanishi necha yo‘l bilan amalga oshiriladi?",
+    "options": [
+      "2 yo'l",
+      "3 yo'l",
+      "5 yo'l",
+      "4 yo'l"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Tembrni eshitish qobiliyatini rivojlantirish o'yini?",
+    "options": [
+      "“Tovushiga qarab top”",
+      "“Ritm”",
+      "“Musiqani top”",
+      "“Qo'shiqni tingla”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa ostida harakatlanishning turlari?",
+    "options": [
+      "Mashq, raqs, o`yin.",
+      "Mashq, yugirish, o`yin",
+      "Qarsak chalish, raqs, o`yin.",
+      "Mashq, raqs, sakrash."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Musiqa madaniyati” o’quv fani qanday dars turiga kiradi?",
+    "options": [
+      "Kompleks (integral-aralash)",
+      "Ko’rgazmali",
+      "Amaliy",
+      "Og’zaki"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa darsining uch asosiy faoliyatlari qaysilar?",
+    "options": [
+      "Xor bo’lib kuylash, musiqa savodi, musiqa tinglash",
+      "Matnni intonasiya bilan o’qish, solfedjiolash",
+      "Musiqa asboblarida kuylar chalish, dirijyorlik qilish,tinglash",
+      "Soz bilan qo`shiq aytish, raqsga tushish, musiqa tinglash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa madaniyati darsida barcha faoliyatlar o’zaro qanday bog’lanadi?",
+    "options": [
+      "Mavzu asosida mantiqan bog’lanadi",
+      "Har bir faoliyat turi mustaqil tarzda",
+      "O’zaro bog’liqlik yo’q",
+      "Ketma-ketlikda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Jamoa bo’lib kuylash faoliyati qay tarzda tashkil etiladi?",
+    "options": [
+      "Asar tinglanadi, qo’shiq mazmuni va muallifi haqida tushuncha beriladi, so’ng o’rganishga kirishiladi",
+      "Asar sinf jamoasi ijrosida kuylanadi, qo’shiq mazmuni va muallifi haqida tushuncha beriladi",
+      "Qo’shiq o’rganiladi, so’ng kuy tavsiflari anglab olinadi",
+      "Avval o’qituvchi ijrosida tinglanadi, so’ng raqs harakatlari orqali ijro etiladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa darsi  qanday fanlar bilan aloqador?",
+    "options": [
+      "Pedagogika, psixologiya, tasviriy san’at, adabiyot, matematika",
+      "Faqat matematika va geometriya bilan bog’liq",
+      "Barcha fanlar bilan bog’liq",
+      "Algebra, ximiya, astronomiya"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa ijodkorligi faoliyati bolalarda nimani o’stiradi?",
+    "options": [
+      "Musiqiy tafakkur, izlanish va ijodkorlik malakasini",
+      "Ritmik harakatlarni o’zlashtirishini o’stiradi",
+      "Asar badiyatini ifodalash malakasini",
+      "Musiqa shakllari va janrlari haqidagi tushunchasini o’stiradi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pedagogik innovatsiya …?",
+    "options": [
+      "Boshqaruvga asoslanganlik, izchillik, samaradorlik",
+      "Boshqaruvga asoslanganlik",
+      "Samaradorlik",
+      "Izchillik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Bolarilar”, “Istiqlolim”, “Kitob mening do`stimdir”- qo`shiqlari muallifi?",
+    "options": [
+      "Avaz Mansurov musiqasi",
+      "To`xtasin Jalilov musiqasi",
+      "Nadim Norxo`jayev musiqasi",
+      "Fattox Nazarov musiqasi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ko`nikma bu…?",
+    "options": [
+      "Kishining  ilgarigi tajribalari asosida muayyan faoliyat yoki harakatni amalga oshirish qobiliyati.",
+      "Kishining amalda qo`llashi mumkin bo`lgan bilimlari",
+      "Faoliyatni muvaffaqiyatli bajarishga tayyorligi",
+      "Hayot davomida paydo bo`ladigan faoliyat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "X-asrda qaysi san`at turi paydо bo`lgan?",
+    "options": [
+      "Teatr",
+      "Raqs",
+      "Xоr",
+      "Оpera"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa darslarini rejalashtirishda qanday talablarga rioya qilishi zarur?",
+    "options": [
+      "Oddiydan murakkabga, osondan qiyinga o`tish prinsipi",
+      "Ilmiylik va izchillik prinsipi",
+      "Onglilik va faollik prinsipi",
+      "Osondan qiyinga, ilmiylik prinsipi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Sen  o’xshaysan  onamga Maqtay  butun  olamga”  ushbu  she’riy   misralar  qaysi  qo’shiqdan  olingan?",
+    "options": [
+      "Vatanjonim  Vatanim  qo’shiqdan  olingan",
+      "Yaxshi  bola qo’shiqdan  olingan;",
+      "Maktabim  qo’shiqdan  olingan",
+      "O`zbekistonim"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Og`zaki bayon qilish metodlarining ifoda vositasi nima?",
+    "options": [
+      "O’qituvchining jonli so`zi.",
+      "Darslik, kitob",
+      "Ko`rgazmali qurollar",
+      "O’zbek tilining izohli lug’ati, darslik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O`qituvchining hissiy – irodaviy sifatlarini belgilang?",
+    "options": [
+      "Sabrlilik, mardlik, vazminlik, irodalilik, qat’iyatlilik.",
+      "Ishbilarmonlik, tashabbuskorlik, to`g`riso`zlik, xushmuomalalilik",
+      "Vatanparvarlik, insonparvarlik, kuzatuvchanlik, tashkilotchilik, halollik, tashabbuskorlik",
+      "Bolalarni sevish, fuqarolik burchini anglash, mas’uliyatlilik, jismonan sog`lom bo’lish."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pedagoglik kasbi qachon vujudga kelgan?",
+    "options": [
+      "Pedagoglik kasbi kishilik jamiyati shakllanib, turmush tajribalarini keyingi avlodga qoldirish ehtiyoji paydo bo`lgan davrda vujudga kelgan.",
+      "Pedagoglik kasbi urug`chilik davri vujudga kelgan davrda vujudga kelgan.",
+      "Pedagoglik kasbi oila, xususiy mulk va davlatchilik kelib chiqqan davrda vujudga kelgan",
+      "Pedagoglik kasbi kishilik jamiyati vujudga kelgan davrdan boshlab vujudga kelgan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O`qituvchining kasbiy qobiliyatlari qaysilar?",
+    "options": [
+      "Nutq qobiliyati, kuzatuvchanlik, tashkilotchilik, diqqatni taqsimlay olish,  tushuntira olish",
+      "Kelajakni ko’ra olish, to’g’ri muomila qila olish, mehnatsevarlik, kuzatuvchanlik",
+      "Vijdoniylik, halollik, irodalilik, sabrlilik, mehnatsevarlik, vatanparvarlik",
+      "Insonparvarlik, to`g`ri so`zlik, yaxshilik qilish, madaniyatlilik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Quyidagi so`zlar qaysi allomaga tegishli?   \nUstoz – muallimsiz qolsa bir zamon,Nodonlikdan qora bo`lurdi jahon?",
+    "options": [
+      "Jomiy",
+      "Avloniy.",
+      "K.D. Ushinskiy",
+      "Y.A. Komenskiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Quyidagilarning qaysi biri pedagogika fanining asosiy tushunchalari (kategoriyalari) hisoblanadi?",
+    "options": [
+      "Barcha javoblar tog’ri",
+      "Bilim, ko`nikma, malaka, iqtidor",
+      "Muhit, irsiyat, metod, shaxsning shakllanishi",
+      "Ta’lim, tarbiya, ma’lumot"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O`qituvchi va murabbiylar kunini bayram sifatida nishonlash qarori qachon qabul qilingan?",
+    "options": [
+      "1996 – yil 27 – dekabr.",
+      "1996 – yil 17 – mart",
+      "1997 – yil 17 – mart.",
+      "1997 – yil 27 – dekabr"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sh. Yormatovning bolalar uchun yaratgan asarlarni belgilang?",
+    "options": [
+      "“Oymomajon – rom bo`ldi”, “G`ildiragim”, “Sog`lom avlod qo`shig`i”",
+      "“Vatan marshi”,  “O`zbekiston” , \"Gullar vodiysi\"",
+      "“Qaldirg`och”,  “Dadajon”  ,“Oyijon” ,“Paxtaoy”,",
+      "“Qish chog`lari”,  “To`y taronasi”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa mashg’ulotlarida bajariladigan ritmik  harakatlar to’g’ri berilgan qatorni toping?",
+    "options": [
+      "Musiqali o’yinlar, raqs, qo’shiqga mos musiqiy-ritmik harakatlar",
+      "Musiqali o’yinlar, qo’shiq kuylash, raqs",
+      "Qo’shiq kuylash, tinglash, raqs",
+      "Musiqiy-ritmik harakatlar, kuylash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Jamoa bo'lib fikrlash” qanday metodga kiradi?",
+    "options": [
+      "“Interaktiv metod”",
+      "O’qitish metodi",
+      "Faolliklashtirish metodi",
+      "Fanga  ijodiy yondoshish metodi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa darsining faoliyat turlari?",
+    "options": [
+      "Musiqa savodi, musiqa tinglash, qo’shiq kuylash,musiqaviy ritmik harakatlar,bolalar cholg’u asboblarida ijro",
+      "Matnni intonasiya bilan o’qish, solfedjiolash",
+      "Musiqa asboblarida kuylar chalish, dirijyorlik qilish",
+      "Soz bilan qo`shiq aytish, raqsga tushish, musiqa tinglash."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa madaniyati  darslarining   maqsadi…?",
+    "options": [
+      "O’quvchilarning ma’naviy, badiiy va ahloqiy madaniyatini shakllantirishga, milliy g‘urur va vatanparvarlik tarbiyasini amalga oshirishga, ijodiy mahorat, nafosat va badiiy didni o‘stirishga, fikr doirasini kengaytirishga, mustaqillik va tashabbuskorlikni tarbiyalashga xizmat qiladi.",
+      "Musiqaga qiziqish uyg’otish va musiqa orqali dostonamuhitni shakllantirish. .",
+      "Musiqiy qobilyatini o’stiradi va kuylash malakalarini rivojlantiradi.",
+      "Musiqa darslarida fanni o’qitish, kuylash va musiqa tinglash."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pedagogikaning umumdidaktik tamoyillari mohiyati nimalardan iborat?",
+    "options": [
+      "Umumdidaktik tamoyillar yetakchi tamoyillardan bo’lib, pedagogika nazaryasini musiqa darsi bilan bog’laydi",
+      "Musiqa darsining umumdidaktik tamoyillari bir biri bilan bog’liq bo’lib, dars mazmunini yoritib beradi",
+      "Musiqa darsi mazmunini va darsning tuzilishidagi asosiy talablar yo’naloshlarni belgilab beradi",
+      "Mazkur tamoyillar o’qtuvchi va o’quvchilar tomonidan bajariladigan ta’lim asoslarini aniqlab beradi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Erkin mavzuli kuy qo’shiqlarga qanday janrlar kiradi?",
+    "options": [
+      "Qo’shiq, bolalar qo’shiqlari.yalla, lapar,terma",
+      "Baxshilar san’ati, katta ashula, terma",
+      "Terma, maqom, lapar",
+      "Doston, katta ashula, bolalar qo’shiqlari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqiy ritmik harakatning vazifalari?",
+    "options": [
+      "Umumiy harakterdagi harakatlarni ifodali ijro etishga o`rgatish",
+      "Obrazli harakatlarni o`rgatish",
+      "Raqs elementlarini o`rgatish",
+      "Tarbiyaviy yurish harakatlarini o`rgatish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O`yin turi qaysi javobda to`g`ri ko`rsatilgan?",
+    "options": [
+      "Syujetli, syujetsiz, qo`shiqli, ta`limiy o`yin",
+      "Xarakterli, forma, temp",
+      "Davra raqsi, juft raqs",
+      "Syujetsiz, davra raqsi, temp"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Gullar manim kulganim” qo’shigining shakli qanday ?",
+    "options": [
+      "Band  va  naqoratli",
+      "Ko`p qismli",
+      "Ikki  qismli;",
+      "Bir qisimli;"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qo`shiq kuylash malakalari bu..?",
+    "options": [
+      "Nafas olish, tovush hosil qilish, talaffuz",
+      "Kuylash, dirijorlik, talaffuz.",
+      "Cholg`uda ijro, kuylash,nafas olish.",
+      "Tovush hosil qilish, kuylash, dirijorlik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Axloqiy munosabatlar dastlab qayerda shakllanadi?",
+    "options": [
+      "Oilada",
+      "Maktabda, dars jarayonida",
+      "Tadbirlarda, mahallada",
+      "Maktabda, kutubxonada"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa mashg`ulotining o`rta guruhda davomiyligi?",
+    "options": [
+      "20-25 daqiqa",
+      "5-10 daqiqa",
+      "15-20 daqiqa",
+      "40-45 daqiqa"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Garmonik majorda qaysi pog‘ona o‘zgaradi ?",
+    "options": [
+      "6-pog'ona",
+      "5- pog'ona",
+      "4- pog'ona",
+      "O'zgarmaydi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Orkestr ….?",
+    "options": [
+      "Cholg’uchilar  jamoasi",
+      "Dirijor",
+      "O’lchov",
+      ".                         \nTonallik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Afg’on  ruboblari  qaysi  guruhga  kiradi?",
+    "options": [
+      "Mezrobli",
+      "Zarbli",
+      "Puflab chaladigan",
+      "Damli"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Torli-kamonli  cholg’ularga qanday cholg’ular kiradi?",
+    "options": [
+      "G’ijjak",
+      "Doira;",
+      "Dutor.",
+      "Rubob"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Qaro ko’zim”, “Girya”, “Eshvoy” ashulalari muallifi kim?",
+    "options": [
+      "Yu.Rajabiy",
+      "I.Imomov",
+      "A.Ismoilov",
+      "Sh. Mirzayev."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Maysaraning ishi” operasi kim tomonidan  nechanchi yilda yaratilgan?",
+    "options": [
+      "S.Yudakov 1958 yil",
+      "M.Ashrafiy  1962 yil",
+      "Yu.Rajabiy 1959 yil",
+      "M.Burxonov 1960 yil"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Alisher Navoiyga qasida” qaysi janrdagi asar?",
+    "options": [
+      "Vokal simfonik poema",
+      "Qo’shiq va ashula",
+      "Qo’shiq va kuy",
+      "Vokal poema"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Yoril tosh”bolalar operasi mualliflari?",
+    "options": [
+      "S.Boboyev\tSh.Sa’dulla.",
+      "Yu. Rajabiy\tM.Ismoiliy",
+      "S.Boboyev\tP.Mo’min.",
+      "I.Ikromov, S.Boboyev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Assalom xayot” kantatasi muallifi?",
+    "options": [
+      "Sh.Yormatov",
+      "K.Kenjayev",
+      "M.Mirzayev",
+      "N.Norxo’jayev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Sharq taronalari”xalqaro  musiqa festivali madhiyasi  muallifi?",
+    "options": [
+      "D.Omonullayeva",
+      "N.Norxo’jayev",
+      "Sh.Yormatov",
+      "M.Burxonov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa darslarida musiqa tinglash faoliyati necha bosqichda amalga oshiriladi?",
+    "options": [
+      "4 bosqichda",
+      "5 bosqichda",
+      "2 bosqichda",
+      "Umumiy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa darslarida o’quvchilar qanday holda qabrab olinadi?",
+    "options": [
+      "Yalpi",
+      "Yakka",
+      "Kichik guruhlarga bo’lingan holda",
+      "2 ta guruhga bo’lingan holda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa darsiga o’qituvchi ijodiy yondoshib qaysi faoliyat turidan boshlashi mumkin?",
+    "options": [
+      "Istagan faoliyat turidan",
+      "Jamoa bo’lib ko’ylashdan",
+      "Musiqa tinglashdan",
+      "Musiqa savodidan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Musiqa asarlarining tahlili va qo’shiq, raqs, marsh va h.k. janrlarini belgilashda qaysi metod keng qo’llaniladi?",
+    "options": [
+      "Taqqoslash metodlari",
+      "Musiqa o’qitishning og’zaki metodlari",
+      "O’yin metodlari",
+      "Amaliy o’qitish metodi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Diktsiya nima?",
+    "options": [
+      "To’g’ri talaffuz qilish",
+      "So’zlashuv orqali fikr bayon qilish",
+      "Pala-partish so’zlashuv",
+      "Qattiq so’zlashuv"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Milliylik ohangi bilan sug’orilgan o’zbek operasi qaysi?",
+    "options": [
+      "Maysaraning ishi",
+      "Layli va Majnun",
+      "Zulmatdan ziyo",
+      "Dilorom"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Soprano-qanday ovoz turiga kiradi?",
+    "options": [
+      "Xotin-qizlarning eng yuqori ovoz turiga",
+      "Erkaklarning yo’g’on ovoz turiga",
+      "Bolalarning eng past ovoz turiga",
+      "Xotin-qizlarning o’rtacha ovoz turiga"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Maktabda sinfdan tashqari musiqaviy tarbiyaviy ishlar qanday shakllarda olib boriladi?",
+    "options": [
+      "Ommaviy va to’garak shakllarida",
+      "Vokal ansambllari va ommaviy shakllarida",
+      "Yakka xon qo’shiqchilik va cholg’uchilar ansambllari shakllarida",
+      "To’garak va xor shaklida"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Baxshichilik” musiqa uslubi qaysi viloyatlarda rivojlangan?",
+    "options": [
+      "“Surxandaryo, Qashqadaryo”da",
+      "“Xorazm”da",
+      "“ Farg’ona, Toshkent”da",
+      "“ Buxoro, Samarqand”da"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Interfaol usul bu-",
+    "options": [
+      "Yangi pedagogik texnologik usul",
+      "An’anaviy",
+      "Noan’anaviy",
+      "Taqqoslash usuli"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Biron-bir ulug’ siymoga yoki Vatanni madh etishga bag’ishlab yozilgan asar qaysi janrga xos?",
+    "options": [
+      "Qasida janriga xos",
+      "Kontata janriga xos",
+      "Oratoriya janriga xos",
+      "Simfoniya janrgiga xos"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O’quvchilarni musiqa idroki, mantiqiy badiiy fikrlash qobiliyatini rivojlantirishga qaratilgan metod?",
+    "options": [
+      "Musiqaviy umumlashtirish metodi",
+      "O’yin metodi",
+      "Emotsional dramaturgiya metodi",
+      "Taqqoslash metodi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An’anaviy dars uslublari qaysilar?",
+    "options": [
+      "Og’zaki, suhbat, ko’rgazmali,",
+      "Amaliy, badiiy dramatizm",
+      "O’yin, dars kontsert",
+      "Dars-ma’ruza, kotsert"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Shashmaqom”ni to’liq  notaga olgan o’zbek bastakori kim?",
+    "options": [
+      "Yu. Rajabiy",
+      "G.Toshmatov",
+      "I. Akbarov",
+      "M. Burhonov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Boysun” folklor-etnografik ansambli qaysi mahalliy uslubda tashkil topgan?",
+    "options": [
+      "Surxondaryo- Qashqadaryo uslubida",
+      "Farg’ona- Toshkent  uslubida",
+      "Xorazm uslubida",
+      "Buxoro- Samarqand uslubida"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Boychechak”, \"Oq terakmi,ko'k terak\" qo'shiqlari qanday qo'shiqlar safiga kiradi?",
+    "options": [
+      "Bolalar folklori.",
+      "To'y marosimi.",
+      "Diniy qo'shiqlar",
+      "Bolalar qo’shiqlari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Birinchi folklor ansambli nechanchi yil tuzilgan?",
+    "options": [
+      "1980-yilda",
+      "1978-yilda",
+      "1974-yilda",
+      "1982-yilda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O`zbekiston Respublikasi Davlat madhiyasi M.Burxonov musiqasi  va A.Oripov she`ri bilan yaratilgan bo’lib, mustaqillikka bag`ishlab qachon yozilgan?",
+    "options": [
+      "1992 yil 10 dekabr",
+      "1992 yil 2 iyul",
+      "1991 yil 18 noyabr",
+      "1991 yil 18 noyabr"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "«Yaxshi bola» qo'shig`ini qaysi kompozitor yozgan?",
+    "options": [
+      "N.Norxo`jaev",
+      "SH.Yormatov",
+      "A.Mansurov",
+      "F.Nazarov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Mehrjon” bayrami qaysi oyda o‘tkaziladi?",
+    "options": [
+      "Noyabr oyida",
+      "Fevral oyida",
+      "Mart oyida",
+      "Avgust oyida"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Opera janri deb nimaga aytiladi?",
+    "options": [
+      "Barcha musiqiy janrlarni o'z ichiga olgan eng katta sahnaviy asarlar",
+      "Eng katta dramma asariga aytiladi",
+      "Libretto asosida yozilgan asarga aytiladi",
+      "Simfonik arkestr jo'rligida ijro etilgan asar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"Otmagay tong” ariyasi qaysi musiqali dramaga mansub?",
+    "options": [
+      "“Toxir va Zuhra”",
+      "“Gulsara”",
+      "“Nurxon”",
+      "“Ravshan va Zulxumor”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Qo`biz” , “G`ajir nay” , “Chanqobuz”, “Do`mbira” qaysi maxalliy uslub sozlariga mansub?",
+    "options": [
+      "Surxondaryo-Qashqadaryo",
+      "Xorazm",
+      "Toshkent-Farg`ona",
+      "Samarqand-Buxoro"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Boshlang’ich sinflarda qaysi metod ko’proq qo’llaniladi?",
+    "options": [
+      "O’yin metodi",
+      "Taqqoslash",
+      "Amaliy",
+      "Musiqa o’qitishning og’zaki metodi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "O’quvchilarni vokal-xor malakalarini rivojlantirishda qaysi metod muhim hisoblanadi?",
+    "options": [
+      "Amaliy o’qitish metodi",
+      "Taqqoslash",
+      "Amaliy",
+      "Musiqa o’qitishning og’zaki metodi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Shaxs kamolotini rivojlantirishda musiqa tarbiyasining ahamiyati?",
+    "options": [
+      "O’quvchilar musiqiy madaniyatini shakllantirish,musiqani to’g’ri idrok etishga va qadirlashga o’rgatish.",
+      "O’quvchilani atrofdagi go’zal narsalarni idrok etishga o’rgatish.",
+      "Musiqa asarlarini badiiy g’oyaviy mazmunini  tushunishga o’rgatish",
+      "Musiqiy nazariy bilimlarni takomillashtirish, shaxsni yuksak madaniyatli qilib tarbiyalah."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bolalar cholg’u asboblarida ijro etichga kim asos slogan?",
+    "options": [
+      "K.Gofman",
+      "Z,Koday",
+      "D.B.Kabaleyskiy",
+      "D.Omonullayeva"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Suzdukiy” tizimining o’ziga xos xususiyatlari nimalardan iborat?",
+    "options": [
+      "Har bir fan musiqa sadolari ostida olib boriladi",
+      "Musiqa faniga katta e’tibor beriladi",
+      "Mashg’ulotlar electron cholg’u asboblarida o’tiladi",
+      "Qobiliyatli o’quvchilarga alohida e’tibor beriladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Dostonchilik va baxshichilik san’ati qaysi mahalliy uslubda rivojlangan?",
+    "options": [
+      "Surhondaryo-Qashqadaryoda",
+      "Toshkent –Buxoroda",
+      "Farg’ona-Namanganda",
+      "Xorazmda"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Oltinchi sinfda yil mavzusi?",
+    "options": [
+      "Mumtoz musiqa",
+      "Bastakorlar ijodi",
+      "Musiqaning ifoda vositalari",
+      "Yil fasillari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bolalar xor jamoasini rivojlantirishga hissa qo’shgan kompozitor?",
+    "options": [
+      "Shermat Yormatov",
+      "Komil Kenjayev",
+      "Mardon Nasimov",
+      "Botir Umidjonov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Maktabjon-oftobjon”vocal suyitasining muallifi kum?",
+    "options": [
+      "G’Qodirov",
+      "K.Kenjayev",
+      "F.Nazarov",
+      "Sh.Yormatov"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "“Otmagay tong” ariyasi qaysi musiqa dramaga mansub?",
+    "options": [
+      "”Toxir va Zuhra”",
+      "“Gulsara”",
+      "“Nurxon”",
+      "“Ravshan va Zulhumor”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Darsni umumlashtiruvchi metod nimni anglatadi?",
+    "options": [
+      "Konkret masalani vujudga keltiradi,o’qituvchi va o’quvchi hamkorligida masalani yechadi",
+      "O’quvchi yangi materiallarni o’zlashtirishdan oldin olgan bilimlariga tayyanadi",
+      "Yangi bilimlarni o’zlashtirishdan oldin sinab ko’radi",
+      "Asosan boshlang’ich sinfda qo’llaniladi"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Beshinchi sinfda yil mavzusi qanday nomlanadi?",
+    "options": [
+      "Kompozitorlik musiqa janri",
+      "Opera san’ati,o’zbek musiqasini opera janri",
+      "Musiqaning tuzilishi",
+      "Musiqada shakl va mazmun"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Qaysi  janr opera, balet, dramma va kinofilmlardagi  musiqaviy  muqaddima  sifatida yoziladi?",
+    "options": [
+      "Uvertura",
+      "Kotata",
+      "Sonata",
+      "Konsert"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Biror voqea-hodisani aks ettiruvchi shoir tomonidan she’tiy uslubda yoziladigan asar?",
+    "options": [
+      "Liberetto",
+      "Aria",
+      "Suita va sonata",
+      "Orkestr"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir vaqtda kuylab harakatlarni bajarish qaysi faoliyat turiga kiradi?",
+    "options": [
+      "Musiqaviy ritmik harakatlar",
+      "Qo’shiq kuylash",
+      "Musiqa tinglash",
+      "Cholg’u asboblarda jo’r bo’lish"
+    ],
+    "answer": 0
+  }
+]
