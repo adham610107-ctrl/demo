@@ -1982,43 +1982,61 @@ let msgPollInterval = null;
 function startMessagePoll() {
     if (msgPollInterval) clearInterval(msgPollInterval);
     msgPollInterval = setInterval(checkInboxMessages, 15000); // 15 soniyada bir
-}
+
+    // ===== ADMIN MESSAGE POLLING - INFINITE LOOP FIX =====
+let isPollingMessages = false;
+let processedMsgIds = new Set();
 
 async function checkInboxMessages() {
     if (!currentUser) return;
+    
+    // QULF - bir vaqtda faqat bita polling
+    if (isPollingMessages) return;
+    isPollingMessages = true;
+    
     try {
         let inbox = await dbLoad('inbox_' + currentUser) || [];
         if (!Array.isArray(inbox)) inbox = [];
         const unread = inbox.filter(m => !m.read);
-        if (!unread.length) return;
+        if (!unread.length) {
+            isPollingMessages = false;
+            return;
+        }
 
         for (const msg of unread) {
-            // Admin xabari uchun — avval o'qilganligini tekshir
-            const msgKey = 'last_read_msg_' + (msg.from || 'admin') + '_' + (msg.time || '');
-            const alreadyRead = localStorage.getItem(msgKey);
-            if (alreadyRead) {
-                // Allaqachon o'qilgan — faqat read=true qilib o'tamiz
+            // UNIQUE ID orqali qayta chiqarilishni oldini olish
+            const msgUniqueId = `${msg.from || 'admin'}_${msg.time || ''}`;
+            
+            if (processedMsgIds.has(msgUniqueId)) {
                 msg.read = true;
                 continue;
             }
-            // Bo'sh xabar bo'lsa — modal chiqarma
+
+            // Bo'sh xabar - skip
             if (!msg.text || !msg.text.trim()) {
                 msg.read = true;
                 continue;
             }
+
+            // XABARNI FAQAT BITA MARTA KO'RSAT
             await showMessagePopup(msg);
-            // OK bosilgandan keyin localStorage ga saqla
-            localStorage.setItem(msgKey, '1');
+            localStorage.setItem('last_shown_msg_' + msgUniqueId, '1');
+            processedMsgIds.add(msgUniqueId);
             msg.read = true;
         }
+        
         await dbSave('inbox_' + currentUser, inbox);
 
         if ((currentUser||'').toLowerCase() === 'adham') {
             loadAdminMessages();
         }
-    } catch(e) {}
+    } catch(e) {
+        console.warn('checkInboxMessages:', e);
+    } finally {
+        isPollingMessages = false;
+    }
 }
-
+    
 // Xabar popup — Promise asosida, OK bosmaguncha kutadi
 function showMessagePopup(msg) {
     return new Promise(resolve => {
