@@ -482,6 +482,34 @@ function createGreenSparkle(cx, cy) {
         }, 380);
     }, 1050);
 }
+
+    // === BOSQICH 4: PORTLASH + CLEANUP 400ms ICHIDA ===
+    setTimeout(() => {
+        ring.animate([
+            { transform: 'translate(-50%,-50%) scale(1)', opacity: 1 },
+            { transform: 'translate(-50%,-50%) scale(3)', opacity: 0 }
+        ], { duration: 350, easing: 'cubic-bezier(0,0.9,0.57,1)', fill: 'forwards' });
+
+        particles.forEach((spark, i) => {
+            const ang2 = Math.random() * Math.PI * 2;
+            const d2   = 60 + Math.random() * 100;
+            spark.animate([
+                { transform: 'translate(-50%,-50%) scale(1.0)', opacity: 1 },
+                { transform: `translate(calc(-50% + ${Math.cos(ang2)*d2}px),calc(-50% + ${Math.sin(ang2)*d2}px)) scale(0)`, opacity: 0 }
+            ], { duration: 450 + Math.random()*150, easing: 'cubic-bezier(0,0.9,0.57,1)', fill: 'forwards' });
+        });
+
+        // MUNOQALA CLEANUP - MAKSIMAL 400ms
+        const cleanupTimer = setTimeout(() => {
+            if(ring.parentNode) ring.parentNode.removeChild(ring);
+            particles.forEach(p => {
+                if(p && p.parentNode) p.parentNode.removeChild(p);
+            });
+            particles = [];
+        }, 380);
+
+    }, 1050);
+
 function speakQuestion(idx) {
     if ('speechSynthesis' in window) { window.speechSynthesis.cancel(); const msg=new SpeechSynthesisUtterance(currentTest[idx].q); msg.lang='uz-UZ'; msg.rate=0.9; window.speechSynthesis.speak(msg); }
     else alert("Brauzer ovozli o'qishni qo'llab-quvvatlamaydi.");
@@ -1894,6 +1922,84 @@ async function sendAdminMessage() {
     } catch(e) { alert('Xatolik!'); }
     finally { if(btn){btn.disabled=false;btn.innerText='Yuborish';} }
 }
+
+// ===== ADMIN BROADCAST SYSTEM (YANGI) =====
+async function sendAdminBroadcast() {
+    const isAdmin = (currentUser||'').toLowerCase() === 'adham';
+    if (!isAdmin) return alert("Faqat admin uchun!");
+    
+    const msg = prompt("Barcha userlarga xabar:");
+    if (!msg || !msg.trim()) return;
+    
+    if (!confirm("Hammaga yuborish - tasdiqlang?")) return;
+    
+    try {
+        await dbSave('admin_broadcast_msg', {
+            text: msg.trim(),
+            from: 'admin',
+            time: new Date().toISOString(),
+            read: false
+        });
+        alert('✅ Broadcast yuborildi!');
+        
+        // Broadcast yonida delete button
+        showBroadcastControl();
+    } catch(e) {
+        alert('Xatolik: ' + e.message);
+    }
+}
+
+async function deleteBroadcast() {
+    const isAdmin = (currentUser||'').toLowerCase() === 'adham';
+    if (!isAdmin) return;
+    
+    try {
+        await dbSave('admin_broadcast_msg', null);
+        const el = document.getElementById('admin-broadcast-banner');
+        if (el) el.remove();
+        alert('✅ Broadcast o\'chirildi!');
+    } catch(e) {}
+}
+
+function showBroadcastControl() {
+    const isAdmin = (currentUser||'').toLowerCase() === 'adham';
+    if (!isAdmin) return;
+    
+    let banner = document.getElementById('admin-broadcast-banner');
+    if (!banner) {
+        banner = document.createElement('div');
+        banner.id = 'admin-broadcast-banner';
+        document.body.insertBefore(banner, document.body.firstChild);
+    }
+    
+    try {
+        dbLoad('admin_broadcast_msg').then(broadcast => {
+            if (broadcast && broadcast.text) {
+                banner.style.cssText = `
+                    position:fixed; top:60px; left:0; right:0;
+                    background:linear-gradient(135deg,#1A6BFF,#0A84FF);
+                    color:#fff; padding:12px 16px; text-align:center;
+                    font-weight:700; z-index:9995;
+                    box-shadow:0 4px 16px rgba(26,107,255,0.4);
+                `;
+                banner.innerHTML = `
+                    <div style="display:flex;align-items:center;justify-content:center;gap:12px;">
+                        <span>📢 ${broadcast.text}</span>
+                        <button onclick="deleteBroadcast()" style="
+                            background:#fff; color:#1A6BFF; border:none;
+                            padding:4px 10px; border-radius:6px; font-weight:700;
+                            cursor:pointer; font-size:0.8rem;
+                        ">🗑 O'chirish</button>
+                    </div>
+                `;
+            }
+        });
+    } catch(e) {}
+}
+
+// Startup'da broadcast tekshirish
+showBroadcastControl();
+setInterval(showBroadcastControl, 30000);
 
 // Admin panelga user ro'yxatini yuklash
 async function loadAdminPanel() {
